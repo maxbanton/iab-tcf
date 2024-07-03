@@ -1,6 +1,6 @@
 # iab-tcf
 
-[![Build Status](https://travis-ci.org/gguridi/iab-tcf.svg?branch=master)](https://travis-ci.org/gguridi/iab-tcf)
+[![Releasing](https://github.com/maxbanton/iab-tcf/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/maxbanton/iab-tcf/actions/workflows/release.yml)
 [![codecov](https://codecov.io/gh/gguridi/iab-tcf/branch/master/graph/badge.svg)](https://codecov.io/gh/gguridi/iab-tcf)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6e6a8a02a6b14c5998b29bbe06327c87)](https://www.codacy.com/gh/gguridi/iab-tcf/dashboard)
 ![Releasing](https://github.com/gguridi/iab-tcf/workflows/Releasing/badge.svg)
