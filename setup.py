@@ -12,7 +12,7 @@ release_file = "RELEASE-VERSION"
 requirements_file = "requirements.txt"
 
 
-logging.basicConfig(format="%(asctime)-15s %(user)-8s %(message)s")
+logging.basicConfig(format="%(asctime)-15s %(message)s")
 logger = logging.getLogger(__name__)
 
 
