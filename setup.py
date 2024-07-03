@@ -60,7 +60,7 @@ def get_requirements() -> List[str]:
 
 
 setup(
-    name="iab-tcf",
+    name="iab-tcf-bitarray",
     description="A Python implementation of the IAB consent strings (v1.1 and v2)",
     long_description=Path("README.md").read_text(),
     long_description_content_type="text/markdown",
